@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RodrigoScarafia
-- 👀 I’m interested in Data Analytics y Human Resourses
-- 🌱 I’m currently learning a reskdata analytics
-- 💞️ I’m looking to collaborate on any proyect related to my knowledge
+#- 👋 Hi, I’m @RodrigoScarafia
+###- 👀 I’m interested in Data Analytics y Human Resourses
+##- 🌱 I’m currently learning a reskdata analytics
+####- 💞️ I’m looking to collaborate on any proyect related to my knowledge
 - 📫 How to reach me: www.linkedin.com/in/rodrigogarcias
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
